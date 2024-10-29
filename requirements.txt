@@ -1,0 +1,7 @@
+click
+opencv-python
+Pillow
+numpy
+mediapipe
+pyvirtualcam
+mss
